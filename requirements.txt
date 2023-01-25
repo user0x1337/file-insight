@@ -1,0 +1,7 @@
+numpy==1.24.1
+pandas
+scapy
+matplotlib
+cryptography
+bs4
+scipy
